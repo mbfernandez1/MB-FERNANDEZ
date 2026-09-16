@@ -79,4 +79,4 @@ la comparacion entre meses todavia no permite identificar meses realmente
 superiores o inferiores al promedio. Con la regla binaria solicitada, marzo
 queda etiquetado como 'Por debajo' porque su facturacion es igual, y no
 superior, al unico promedio mensual disponible.
-*/
+
